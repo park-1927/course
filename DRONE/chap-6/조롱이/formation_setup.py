@@ -25,6 +25,9 @@ def set_ap(ssid, password):
 # only works if server is connected to Tello Wi-Fi
 #set_ap('Tello_Nest', 'tellotello')
 
+
+####################################
 set_ap('U+Net6FC8', '8BD937G0D#')
+#####################################
 
 

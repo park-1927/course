@@ -1,12 +1,14 @@
-#tello_state-r.py
+#-*- coding: utf-8 -*- 
 
+#tello_state-r.py
 import socket
 from time import sleep
 
 ########################################################
-import curses # curses 확장 모듈을 사용하여 텍스트 모드 디스플레이를 제어
 #https://python.flowdas.com/howto/curses.html
 ########################################################
+import curses # curses 확장 모듈을 사용하여 텍스트 모드 디스플레이를 제어
+
 
 #INTERVAL = 0.2
 INTERVAL= 0.05
