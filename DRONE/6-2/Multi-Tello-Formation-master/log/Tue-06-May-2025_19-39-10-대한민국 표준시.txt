@@ -1,0 +1,60 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2025-05-06 19:39:10.152000
+end_time: 2025-05-06 19:39:11.129000
+duration: 0.977
+
+id: 1
+command: battery?
+response: 90
+
+start time: 2025-05-06 19:39:15.167000
+end_time: 2025-05-06 19:39:15.208000
+duration: 0.041
+
+id: 2
+command: sn?
+response: 0TQZJ4TKRT0WLM
+start time: 2025-05-06 19:39:16.676000
+end_time: 2025-05-06 19:39:16.691000
+duration: 0.015
+
+id: 3
+command: mon
+response: ok
+start time: 2025-05-06 19:39:18.187000
+end_time: 2025-05-06 19:39:18.216000
+duration: 0.029
+
+id: 4
+command: takeoff
+response: ok
+start time: 2025-05-06 19:39:18.218000
+end_time: 2025-05-06 19:39:24.145000
+duration: 5.927
+
+id: 5
+command: go 50 0 80 60 m3
+response: error No valid marker
+start time: 2025-05-06 19:39:24.220000
+end_time: 2025-05-06 19:39:26.375000
+duration: 2.155
+
+id: 6
+command: flip r
+response: ok
+start time: 2025-05-06 19:39:26.389000
+end_time: 2025-05-06 19:39:29.956000
+duration: 3.567
+
+id: 7
+command: land
+response: ok
+start time: 2025-05-06 19:39:30.010000
+end_time: 2025-05-06 19:39:34.738000
+duration: 4.728
+
